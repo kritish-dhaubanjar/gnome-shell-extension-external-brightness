@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/25634165/128221059-89c5376a-c7fd-4e07-
 
 ```
 cd ~/.local/share/gnome-shell/extensions/
-git clone git@github.com:kritish-dhaubanjar/gnome-shell-extension-external-brightness.git externalbrightness@kritishdhaubanjar.gmail.com@kritishdhaubanjar.gmail.com
+git clone git@github.com:kritish-dhaubanjar/gnome-shell-extension-external-brightness.git externalbrightness@kritishdhaubanjar.gmail.com
 ```
 
 **Restart the Session with [Alt + F2] & command "r".**
