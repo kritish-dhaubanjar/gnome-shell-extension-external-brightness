@@ -1,5 +1,5 @@
 {
-  "name": "External Monitor Brigheness Control",
+  "name": "External Monitor Brightness Control",
   "description": "Control extenal monitor's brightness",
   "uuid": "externalbrightness@kritishdhaubanjar.gmail.com",
   "shell-version": [
